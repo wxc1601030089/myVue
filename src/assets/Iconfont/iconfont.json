@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "163434",
+      "name": "下",
+      "font_class": "svg19",
+      "unicode": "e83a",
+      "unicode_decimal": 59450
+    },
+    {
+      "icon_id": "879484",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1076076",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "1233744",
+      "name": "下一首",
+      "font_class": "xiayishou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1233886",
+      "name": "上一首",
+      "font_class": "shangyishou",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "1610411",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1820765",
+      "name": "音量",
+      "font_class": "yinliang",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "1825146",
+      "name": "顺序播放 ",
+      "font_class": "shunxubofang",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "2581822",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "4317476",
+      "name": "循环",
+      "font_class": "xunhuan",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "5249038",
+      "name": "随机播放",
+      "font_class": "suijibofang",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "7503185",
+      "name": "播放列表",
+      "font_class": "bofangliebiao",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "8105547",
+      "name": "MV",
+      "font_class": "MV",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "9729356",
+      "name": "单曲循环",
+      "font_class": "danquxunhuan",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    }
+  ]
+}
